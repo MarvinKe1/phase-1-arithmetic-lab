@@ -1,5 +1,3 @@
-
-// Write your code here
 // 1. Multiply num1 and num2 to get 62
 let num1 = 31;
 let num2 = 2;
